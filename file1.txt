@@ -1,0 +1,2 @@
+hello file1
+你好！file1
